@@ -771,7 +771,7 @@
       "property_id": "int",
       "value": "string",
       "is_available": "boolean",
-      "price": "int"
+      "price": "float"
     },
     "defaults": {
       "price": null
